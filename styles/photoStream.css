@@ -1,16 +1,22 @@
-.grid{
+.grid {
     display: grid;
     grid-template-columns: 1rf 1rf 1rf;
     grid-template-rows: 200px 200px 200px 200px 200px;
-        grid-gap: 10px 20px;
+    grid-gap: 10px 20px;
 }
-.card-img-top{
-    display: block;float: left;margin-right: 2%;width: 31.3333%;
+
+.card-img-top {
+    display: block;
+    float: left;
+    margin-right: 2%;
+    width: 31.3333%;
     height: 100px;
 }
-.text{
+
+.text {
     width: 31.3333%;
 }
-.card{
+
+.card {
     height: 200px;
 }

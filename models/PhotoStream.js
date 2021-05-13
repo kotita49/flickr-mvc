@@ -5,8 +5,7 @@ this.authorurl = authorurl,
 this.name = name,
 this.title = title,
 this.tags = tags
-         
-        }
+                 }
        
        
 }
